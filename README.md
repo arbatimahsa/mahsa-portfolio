@@ -4,10 +4,7 @@ A responsive personal portfolio website for **Mahsa Arbati**, a Computer Science
 
 ## Live Demo
 
-After enabling GitHub Pages, the portfolio will be available at one of these URLs:
-
-- `https://arbatimahsa.github.io/` if the repository is named `arbatimahsa.github.io`
-- `https://arbatimahsa.github.io/mahsa-portfolio/` if the repository is named `mahsa-portfolio`
+- `https://arbatimahsa.github.io/mahsa-portfolio/`
 
 ## About
 
